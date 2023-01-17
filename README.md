@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [sahilkh07.github.io](sahilkh07.github.io)
+- 👨‍💻 All of my projects are available at [sahilkh07.github.io](https://sahilkh07.github.io)
 
 - 💬 Ask me about **React,JavaScript,HTML,CSS**
 
