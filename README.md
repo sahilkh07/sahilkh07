@@ -28,7 +28,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1x6IkpKIRtZfnJT1szT8sqpabp_VL-4hG/view?usp=sharing)
 
-- 📄 PortFolio [Click Me!](sahilkh07.github.io/)
+- 📄 PortFolio sahilkh07.github.io/
 <hr/>
 
 
